@@ -3,7 +3,7 @@ Hello there!
 #### Here is some info about me:
 
 * I'm Gus Alvarenga
-* I'm a Senior Data Analyst based in Ontario, Canada, currently working in the video games industry
+* I'm based in Ontario, Canada, currently working in the video games industry
 * I lead the design and automation of data pipelines to support research and reporting, manage end-to-end Power BI dashboards used by internal teams and clients, and translate business needs into scalable solutions.
 
 
