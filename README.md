@@ -9,11 +9,11 @@ Hello there!
 
 #### Now here's some of my skills:
   
-* **Core Skills:** SQL, Python (Pandas, NumPy, Scikit-learn, Seaborn)
+* **Business Intelligence & Reporting:** Power BI, Tableau, Excel, ad-hoc reporting, KPI design, documentation & report templates
 
-* **Data Infrastructure & Pipelines:** Google Cloud Platform (BigQuery, Cloud Storage, CloudSQL, Compute Engine), Microsoft Fabric (Dataflows), Power Automate
+* **Querying & Databases:** SQL, relational databases, BigQuery and Cloud SQL (GCP)
 
-* **Analytics & Visualization:** Power BI, Tableau
+* **Programming & Automation:** Python
 
-* **Machine Learning & AI:** Scikit-learn, GPT
-
+* **Data Infrastructure & Pipelines:** Google Cloud Platform (BigQuery, Cloud Storage, CloudSQL, Cloud Composer, Compute Engine), Microsoft Fabric (Dataflows), Power Automate
+Machine Learning & AI: Scikit-learn, GPT
